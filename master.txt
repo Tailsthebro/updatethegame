@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/img/Map016.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map016.json
+<End of Version>
