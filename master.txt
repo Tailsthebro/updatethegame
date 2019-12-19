@@ -1,11 +1,1 @@
 
-<Version: 1.01>
-/data/Map016.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map016.json
-/data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skills.json
-/data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
-/data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
-<End of Version>
-
-<Version: 1.02>
-/img/Map016.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map016.json
-<End of Version>
