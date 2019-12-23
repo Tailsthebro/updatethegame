@@ -8,3 +8,7 @@
 /data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
 /data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
 <End of Version>
+
+<Version: 1.03>
+/js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
+<End of Version>
