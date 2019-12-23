@@ -13,3 +13,13 @@
 /js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
 <End of Version>
 
+<Version: 1.04>
+/data/Map004.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map004.json
+/data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
+/data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
+/data/Actors.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Classes.json
+/data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skill.json
+/data/Skills.json https://github.com/Tailsthebro/updatethegame/blob/master/Skills.json
+/data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
+<End of Version>
