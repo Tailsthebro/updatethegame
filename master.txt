@@ -20,6 +20,6 @@
 /data/Actors.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Actors.json
 /data/Classes.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Classes.json
 /data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skill.json
-/data/Skills.json https://github.com/Tailsthebro/updatethegame/blob/master/Skills.json
+/data/Skills.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skills.json
 /data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
 <End of Version>
