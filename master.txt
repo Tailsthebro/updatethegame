@@ -24,7 +24,7 @@
 /data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
 <End of Version>
 
-<Version: 1.04>
+<Version: 1.05>
 /js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
 /js/plugins/YEP_X_Autosave.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_Autosave.js
 <End of Version>
