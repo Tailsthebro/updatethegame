@@ -28,3 +28,8 @@
 /js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
 /js/plugins/YEP_X_Autosave.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_Autosave.js
 <End of Version>
+
+<Version: 1.06>
+/data/CommonEvents.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/CommonEvents.json
+/data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skill.json
+/data/Skills.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skills.json
