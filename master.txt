@@ -42,7 +42,7 @@
 /data/States.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/States.json
 /img/face/aj from 2.png https://i.imgur.com/G1Ecu0T.png
 /img/face/aj from.png https://i.imgur.com/UO2X51K.png
-/img/face/darkness galaxy form.png https://i.imgur.com/74DCY9c.png
+/img/face/"darkness galaxy form.png" https://i.imgur.com/74DCY9c.png
 /img/characters/galaxy forms.png https://i.imgur.com/iyDVjtJ.png\
 /img/sv_actors/aj from lvl2.png https://i.imgur.com/FuOJ7pJ.png
 /img/sv_actors/aj from.png https://i.imgur.com/am1FZrd.png
