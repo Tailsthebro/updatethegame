@@ -29,22 +29,3 @@
 /js/plugins/YEP_X_Autosave.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_Autosave.js
 <End of Version>
 
-<Version: 1.06>
-/data/CommonEvents.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/CommonEvents.json
-/data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skill.json
-/data/Skills.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skills.json
-/data/Map016.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map016.json
-/data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
-/data/Map014.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map014.json
-/data/Map015.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map015.json
-/data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
-/data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
-/data/States.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/States.json
-/img/face/aj from 2.png https://i.imgur.com/G1Ecu0T.png
-/img/face/aj from.png https://i.imgur.com/UO2X51K.png
-/img/face/"darkness galaxy form.png" https://i.imgur.com/74DCY9c.png
-/img/characters/galaxy forms.png https://i.imgur.com/iyDVjtJ.png\
-/img/sv_actors/aj from lvl2.png https://i.imgur.com/FuOJ7pJ.png
-/img/sv_actors/aj from.png https://i.imgur.com/am1FZrd.png
-/img/sv_actors/darkness galaxy mode.png https://i.imgur.com/tozbg7I.png
-<End of Version>
