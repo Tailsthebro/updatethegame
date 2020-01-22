@@ -41,10 +41,11 @@
 /data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
 /data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
 /data/States.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/States.json
-/img/face/ajfrom2.png https://i.imgur.com/G1Ecu0T.png
-/img/face/ajfrom.png https://i.imgur.com/UO2X51K.png
-/img/face/darknessgalaxyform.png https://i.imgur.com/74DCY9c.png
+/img/faces/ajfrom2.png https://i.imgur.com/G1Ecu0T.png
+/img/faces/ajfrom.png https://i.imgur.com/UO2X51K.png
+/img/faces/darknessgalaxyform.png https://i.imgur.com/74DCY9c.png
 /img/characters/galaxyforms.png https://i.imgur.com/iyDVjtJ.png
 /img/sv_actors/ajfromlvl2.png https://i.imgur.com/FuOJ7pJ.png
 /img/sv_actors/ajfrom.png https://i.imgur.com/am1FZrd.png
+/img/sv_actors/darknessgalaxymode.png https://i.imgur.com/tozbg7I.png
 <End of Version>
