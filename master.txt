@@ -48,4 +48,5 @@
 /img/sv_actors/ajfromlvl2.png https://i.imgur.com/FuOJ7pJ.png
 /img/sv_actors/ajfrom.png https://i.imgur.com/am1FZrd.png
 /img/sv_actors/darknessgalaxymode.png https://i.imgur.com/tozbg7I.png
+/data/Actors.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Actors.json
 <End of Version>
