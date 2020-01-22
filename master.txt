@@ -50,3 +50,6 @@
 /img/sv_actors/darknessgalaxymode.png https://i.imgur.com/tozbg7I.png
 /data/Actors.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Actors.json
 <End of Version>
+
+<Version: 1.07>
+/js/plugins/YEP_BuffsStatesCore.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_BuffsStatesCore.js
