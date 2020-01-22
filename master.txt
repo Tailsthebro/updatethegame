@@ -53,3 +53,4 @@
 
 <Version: 1.07>
 /js/plugins/YEP_BuffsStatesCore.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_BuffsStatesCore.js
+<End of Version>
