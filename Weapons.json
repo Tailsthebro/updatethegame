@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"animationId":6,"description":"A sharp Steel Sword","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":147,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":144,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":152,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":149,"name":"Bow","note":"","params":[0,0,20,0,13,0,-4,0],"price":0,"wtypeId":7},
+{"id":5,"animationId":8,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":1281,"name":"red beam sword","note":"<Weapon Image: Beam Sword Red>\n<Weapon Motion: swing>","params":[0,0,50,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":6,"animationId":6,"description":"it's so long. used for mid-range combat and close range combat\nbut it has some white stuff on the end and it's quite sticky","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":998,"name":"Staff","note":"<Weapon Image: staff>","params":[0,0,15,0,0,0,10,0],"price":0,"wtypeId":13},
+{"id":7,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":537,"name":"kanata","note":"<Weapon Image: kanata>","params":[0,0,20,0,0,0,0,0],"price":1000,"wtypeId":14},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":4899,"name":"menchine sword","note":"<Weapon Image: menchinesword>","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":360,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
