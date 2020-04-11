@@ -56,3 +56,21 @@
 /js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
 /js/plugins/YEP_X_BattleSysSTB.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_BattleSysSTB.js
 <End of Version>
+
+<Version: 1.08>
+/data/Skill.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skill.json
+/data/Skills.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Skills.json
+/js/plugins.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/plugins.js
+/js/plugins/GamepadConfig.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/GamepadConfig.js
+/data/Actors.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Animations.json
+/data/Classes.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Classes.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/CommonEvents.json
+/data/Enemies.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Items.json
+/data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
+/data/Troops.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Troops.json
+/data/States.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/States.json
+/data/System.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/System.json
+/data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
+<End of Version>
