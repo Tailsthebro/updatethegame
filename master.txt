@@ -77,4 +77,5 @@
 /js/plugins/YEP_OptionsCore.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_OptionsCore.js
 /js/plugins/YEP_KeyboardConfig.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_KeyboardConfig.js
 /js/plugins/YEP_VictoryAftermath.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_VictoryAftermath.js
+/js/plugins/YEP_X_VisualHpGauge.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_VisualHpGauge.js
 <End of Version>
