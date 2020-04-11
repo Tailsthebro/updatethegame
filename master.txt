@@ -73,4 +73,8 @@
 /data/States.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/States.json
 /data/System.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/System.json
 /data/Map009.json https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/Map009.json
+/js/plugins/YEP_SkillCore.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_SkillCore.js
+/js/plugins/YEP_OptionsCore.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_OptionsCore.js
+/js/plugins/YEP_KeyboardConfig.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_KeyboardConfig.js
+/js/plugins/YEP_VictoryAftermath.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_VictoryAftermath.js
 <End of Version>
