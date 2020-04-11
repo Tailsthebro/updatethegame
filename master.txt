@@ -78,4 +78,5 @@
 /js/plugins/YEP_KeyboardConfig.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_KeyboardConfig.js
 /js/plugins/YEP_VictoryAftermath.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_VictoryAftermath.js
 /js/plugins/YEP_X_VisualHpGauge.js https://raw.githubusercontent.com/Tailsthebro/updatethegame/master/YEP_X_VisualHpGauge.js
+/img/faces/Rapheal.png https://i.imgur.com/hlAtrll.png
 <End of Version>
